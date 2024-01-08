@@ -1,0 +1,15 @@
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\bin\Debug\net7.0\гра життя.exe
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\bin\Debug\net7.0\гра життя.deps.json
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\bin\Debug\net7.0\гра життя.runtimeconfig.json
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\bin\Debug\net7.0\гра життя.dll
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\bin\Debug\net7.0\гра життя.pdb
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.csproj.AssemblyReference.cache
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.AssemblyInfoInputs.cache
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.AssemblyInfo.cs
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.csproj.CoreCompileInputs.cache
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.dll
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\refint\гра життя.dll
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.pdb
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\гра життя.genruntimeconfig.cache
+C:\Users\oz1kk\source\repos\лаба 2\гра життя\гра життя\obj\Debug\net7.0\ref\гра життя.dll
